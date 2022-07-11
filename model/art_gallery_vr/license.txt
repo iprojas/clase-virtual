@@ -1,0 +1,11 @@
+Model Information:
+* title:	ART Gallery VR
+* source:	https://sketchfab.com/3d-models/art-gallery-vr-26458a69ea1a428783ae67381f8e5029
+* author:	vslite (https://sketchfab.com/vslite)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ART Gallery VR" (https://sketchfab.com/3d-models/art-gallery-vr-26458a69ea1a428783ae67381f8e5029) by vslite (https://sketchfab.com/vslite) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
